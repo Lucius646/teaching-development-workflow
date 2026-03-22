@@ -1,0 +1,4 @@
+﻿interface:
+  display_name: "开发工作流教学"
+  short_description: "帮助初学者学习软件开发工作流"
+  default_prompt: "Use $teaching-development-workflow 在遵循 superpowers 工作流时维护一份自包含的教学日志。"
