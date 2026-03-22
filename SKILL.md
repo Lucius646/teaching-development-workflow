@@ -1,4 +1,4 @@
-﻿---
+---
 name: teaching-development-workflow
 description: Use when a user is new to software development and wants to learn through superpowers-style workflows by keeping a self-contained teaching journal that explains phases, commands, files, decisions, results, blockers, and next steps without requiring the user to read the spec or plan first.
 ---
